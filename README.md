@@ -1,4 +1,4 @@
- FoodApp Project
+ **FoodApp Project**
 
 **FoodApp** is a Django-based web application designed for seamless online food ordering. Users can explore restaurant menus, manage their cart, and place orders effortlessly. The application provides a responsive and user-friendly interface powered by Bootstrap, ensuring an optimal experience across all devices.
 
